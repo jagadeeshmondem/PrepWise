@@ -136,3 +136,11 @@ ai_hackathon/
 | API calls fail | Make sure backend is running on port 5000 AND your `.env` has a valid API key |
 | `Not Found` at `127.0.0.1:5000` | That's expected — open `localhost:5173` instead |
 | `WARNING: development server` | Normal Flask debug message, not an error |
+
+
+## Contributors
+- Jonnadula Sai Pradeep
+
+## My Contribution
+- Developed and improved backend functionalities using Flask
+- Assisted in API integration and database handling
